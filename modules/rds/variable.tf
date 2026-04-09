@@ -1,0 +1,10 @@
+variable "env" {}
+variable "system_name" {}
+variable "vpc_id" {}
+variable "subnets_a" {}
+variable "subnets_c" {}
+variable "web_sg" {}
+variable "dbname" {}
+variable "engine" {} 
+variable "engine_version" {}
+variable "instance_class" {}
